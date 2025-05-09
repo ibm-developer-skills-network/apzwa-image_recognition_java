@@ -1,0 +1,15 @@
+Recognition results for: coffee_mug.jpg
+-----------------------------------------
+coffee mug                    : 94.00%
+laptop                        : 1.00%
+water bottle                  : 1.00%
+book                          : 1.00%
+smartphone                    : 1.00%
+
+
+Image Analysis:
+This is a simplified image analysis demo that shows how
+basic image processing can extract features like color,
+texture, and edges. In a real AI system, these features
+would be inputs to a machine learning model trained on
+thousands of product images.
